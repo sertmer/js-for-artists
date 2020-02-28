@@ -1,4 +1,3 @@
-
 export default function sketch(p) {
   let canvas
   console.log('p: ', p)
